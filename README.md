@@ -17,7 +17,7 @@
 
 <h2 align="left">Recent Project:</h2>
 <ul>
-    <li><strong>Resume Builder</strong> - <a href="YOUR_PROJECT_LINK_HERE" target="_blank">View Project</a></li>
+    <li><strong>Resume Builder</strong> - <a href="https://resume-builder-adpapyrusnebulaps.vercel.app/" target="_blank">View Project Here</a></li>
 </ul>
 
 <br>
